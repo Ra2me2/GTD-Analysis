@@ -1,0 +1,2790 @@
+city,kill_sum,severity_score
+kabul,224.0,66.0
+mogadishu,138.0,65.0
+marib,130.0,64.0
+palma,99.0,63.0
+al-kasarah,83.0,62.0
+daletti,80.0,61.0
+solhan,80.0,61.0
+sobha,80.0,61.0
+al-mashjah,78.0,60.0
+tchombangou,73.0,59.0
+kunduz,72.0,58.0
+ghazni,69.0,57.0
+gwoza district,68.0,56.0
+talat al hamra,67.0,55.0
+sanaa,64.0,54.0
+tessit,59.0,53.0
+damboa,56.0,52.0
+puli alam,56.0,52.0
+ataye,54.0,51.0
+alalay,50.0,50.0
+yimlu,50.0,50.0
+kara kore,50.0,50.0
+kandahar,50.0,50.0
+wisil,49.0,49.0
+jalalabad,49.0,49.0
+shikaan,48.0,48.0
+rann,48.0,48.0
+baghdad,47.0,47.0
+abombi,46.0,46.0
+qalat,46.0,46.0
+boga,46.0,46.0
+raghwan district,45.0,45.0
+panjwai district,44.0,44.0
+odugbeho,44.0,44.0
+al-zour,44.0,44.0
+lashkar gah,43.0,43.0
+ghoryan district,43.0,43.0
+ajiri,43.0,43.0
+litri,42.0,42.0
+aliabad district,41.0,41.0
+kodyel,41.0,41.0
+imam sahib district,40.0,40.0
+boni,40.0,40.0
+rokouna,39.0,39.0
+haylan,39.0,39.0
+yaklang,38.0,38.0
+puli khumri,38.0,38.0
+tekalgudem,37.0,37.0
+wulgo,35.0,36.0
+akofakof,35.0,36.0
+damasak,35.0,36.0
+wistane,35.0,36.0
+lash wa juwayn district,35.0,36.0
+intazayene,34.0,35.0
+geidam,34.0,35.0
+bakoarate,33.0,34.0
+muqur district,33.0,34.0
+gulsalk,32.0,33.0
+zaroumdareye,32.0,33.0
+sirwah district,32.0,33.0
+bangui,31.0,32.0
+farsi district,31.0,32.0
+obe district,30.0,31.0
+bonie kebele,30.0,31.0
+tarin kot,30.0,31.0
+qadis district,30.0,31.0
+afrin,29.0,30.0
+ai-jazeera al-eith,29.0,30.0
+beu manyama-moliso,29.0,30.0
+horoguduru,29.0,30.0
+dare beri,29.0,30.0
+qaysar,28.0,29.0
+awdheegle,27.0,28.0
+taizz,27.0,28.0
+mazari sharif,27.0,28.0
+maqbanah district,27.0,28.0
+shahjoy district,27.0,28.0
+tap-e-akhtar,26.0,27.0
+shirin tagab district,26.0,27.0
+barire,26.0,27.0
+gizab district,26.0,27.0
+tchabi,26.0,27.0
+nahri saraj district,26.0,27.0
+muramvya,26.0,27.0
+maiduguri,26.0,27.0
+gulran district,25.0,26.0
+askira,25.0,26.0
+qaysar district,25.0,26.0
+aguelhoc,24.0,25.0
+khanabad district,24.0,25.0
+herat,24.0,25.0
+almar district,24.0,25.0
+al-makhdarah,24.0,25.0
+samarra,23.0,24.0
+gudunbali,23.0,24.0
+baraki barak district,23.0,24.0
+bolan,23.0,24.0
+igangan,23.0,24.0
+shahr-e safa,23.0,24.0
+rasm al-ahmar,23.0,24.0
+mwenda,22.0,23.0
+durayhami district,22.0,23.0
+ab band district,22.0,23.0
+aqcha district,21.0,22.0
+kohi,21.0,22.0
+hays district,21.0,22.0
+fataki,21.0,22.0
+qala-i-naw,21.0,22.0
+gandamak,21.0,22.0
+zanda jan district,21.0,22.0
+madgan tapa,21.0,22.0
+shewan,20.0,21.0
+wazir manda,20.0,21.0
+balcad,20.0,21.0
+horo-guduru,20.0,21.0
+fayzabad district,20.0,21.0
+hpakant,20.0,21.0
+khwajah band kusha,20.0,21.0
+atnago,20.0,21.0
+bagh-e shamal,20.0,21.0
+dara-i-sufi payin district,20.0,21.0
+bacaadweyn,20.0,21.0
+yirgou,19.0,20.0
+yangon,19.0,20.0
+guegorou,19.0,20.0
+khash rod district,19.0,20.0
+chah anjeer,19.0,20.0
+muziranduru,18.0,19.0
+sarkhab,18.0,19.0
+sayed abad,18.0,19.0
+anar dara district,18.0,19.0
+taluqan,18.0,19.0
+khost,18.0,19.0
+ndalya,18.0,19.0
+vingir,17.0,18.0
+farah,17.0,18.0
+mozogo,17.0,18.0
+arghanj khaw district,17.0,18.0
+tse nyipila,17.0,18.0
+yooyo,17.0,18.0
+tse guji,17.0,18.0
+kenvanger,17.0,18.0
+gololey,17.0,18.0
+mohammad agha district,17.0,18.0
+joy-e-afghan,17.0,18.0
+baghlani jadid district,17.0,18.0
+chimpinchariato,16.0,17.0
+jurm district,16.0,17.0
+momand tangi,16.0,17.0
+bulongo,16.0,17.0
+camp 15,16.0,17.0
+warduj district,16.0,17.0
+utange,16.0,17.0
+lubumbashi,16.0,17.0
+arghandab district,16.0,17.0
+pashtun kot district,16.0,17.0
+timatene,16.0,17.0
+tidjalalene,16.0,17.0
+agando,16.0,17.0
+darwaz district,16.0,17.0
+arzo,16.0,17.0
+gorguel,15.0,16.0
+kharestan,15.0,16.0
+sukhnah,15.0,16.0
+ab kamari district,15.0,16.0
+adjarara,15.0,16.0
+intousa,15.0,16.0
+dashti archi district,15.0,16.0
+metekel,15.0,16.0
+kinyanjojo,15.0,16.0
+amuru,15.0,16.0
+sari pul,15.0,16.0
+tara,15.0,16.0
+samboko chani-chani,15.0,16.0
+sirwah,14.0,15.0
+manzobe,14.0,15.0
+bati kot district,14.0,15.0
+naung mon,14.0,15.0
+tadaryat,14.0,15.0
+katha district,14.0,15.0
+koshki kohna district,14.0,15.0
+sholgara district,14.0,15.0
+dikwa,14.0,15.0
+pashtun zarghun district,14.0,15.0
+feroz koh,14.0,15.0
+marte,14.0,15.0
+maydan shahr,14.0,15.0
+bula yobe,14.0,15.0
+dih yak district,14.0,15.0
+shahrak,13.0,14.0
+guzargahi nur district,13.0,14.0
+diafarabe,13.0,14.0
+daquq district,13.0,14.0
+salamiyah,13.0,14.0
+moebyel,13.0,14.0
+chimtal district,13.0,14.0
+tungar-rogo,13.0,14.0
+ghazi baba,13.0,14.0
+orta buz,13.0,14.0
+maiduma,13.0,14.0
+tagab district,13.0,14.0
+tondikiwidi,13.0,14.0
+kona,13.0,14.0
+garzagana,13.0,14.0
+kwaghaondo,13.0,14.0
+gana,13.0,14.0
+saydabad district,13.0,14.0
+babban-baye,13.0,14.0
+tagab robat,12.0,13.0
+kurha,12.0,13.0
+hafizan,12.0,13.0
+takum district,12.0,13.0
+kpav,12.0,13.0
+aaq gonbad,12.0,13.0
+kushe,12.0,13.0
+shari,12.0,13.0
+koumbri,12.0,13.0
+bardi,12.0,13.0
+kamaru,12.0,13.0
+orlu,12.0,13.0
+beni,12.0,13.0
+mardyan district,12.0,13.0
+ahwar,12.0,13.0
+mabule,12.0,13.0
+aks-e-dawood,12.0,13.0
+makin,12.0,13.0
+zhari district,12.0,13.0
+mbagena,12.0,13.0
+quetta,12.0,13.0
+qala-e-rostam,12.0,13.0
+gadri,12.0,13.0
+yaduda,12.0,13.0
+shinwari district,12.0,13.0
+sar asyab,12.0,13.0
+hosayn knt,12.0,13.0
+nawabad,12.0,13.0
+bala buluk district,12.0,13.0
+sayadbad district,12.0,13.0
+dahana-i-ghuri district,12.0,13.0
+gaskinde,12.0,13.0
+sayyad district,12.0,13.0
+kwali,12.0,13.0
+deynunay,12.0,13.0
+marabo,11.0,12.0
+bayamari,11.0,12.0
+agharangabo,11.0,12.0
+talawka,11.0,12.0
+wach kot,11.0,12.0
+makhmalkocha,11.0,12.0
+khwaja umari district,11.0,12.0
+basharan,11.0,12.0
+kisima,11.0,12.0
+chaklank,11.0,12.0
+juma bazaar,11.0,12.0
+qudosabad,11.0,12.0
+haima,11.0,12.0
+mogangu,11.0,12.0
+lab-e-nahr,11.0,12.0
+shabelle district,11.0,12.0
+al-hawl,11.0,12.0
+chaman,11.0,12.0
+gaida kaso,11.0,12.0
+namphetka,11.0,12.0
+namak ab district,11.0,12.0
+jalrez district,11.0,12.0
+bagh-e-pahlawan,11.0,12.0
+torghundi,11.0,12.0
+kopre,11.0,12.0
+pindal goath,11.0,12.0
+diffa,11.0,12.0
+deh lahor,11.0,12.0
+gardez,11.0,12.0
+dawlatabad district,11.0,12.0
+kasusu,10.0,11.0
+raghwan,10.0,11.0
+yatakou,10.0,11.0
+kwamdi,10.0,11.0
+quiwiya,10.0,11.0
+darqad district,10.0,11.0
+dashti qala,10.0,11.0
+pekha,10.0,11.0
+kun taung,10.0,11.0
+chahar dara district,10.0,11.0
+siguidi,10.0,11.0
+chino,10.0,11.0
+kitovirwa,10.0,11.0
+libokora,10.0,11.0
+jawand district,10.0,11.0
+sheikh jalal,10.0,11.0
+senjetak,10.0,11.0
+djugu district,10.0,11.0
+thi mu hta,10.0,11.0
+markoye,10.0,11.0
+tchanitchani,10.0,11.0
+chakaran,10.0,11.0
+qabristan,10.0,11.0
+tatang,10.0,11.0
+loya godane,10.0,11.0
+mamand,10.0,11.0
+ajimaka,10.0,11.0
+mosa khail district,10.0,11.0
+aabkhora,10.0,11.0
+umuahia north district,10.0,11.0
+harbu,10.0,11.0
+spina khawara,10.0,11.0
+muar,10.0,11.0
+burka district,10.0,11.0
+safdar khan,9.0,10.0
+seh joy,9.0,10.0
+halili,9.0,10.0
+chah ab district,9.0,10.0
+tehsile,9.0,10.0
+quebradon sur,9.0,10.0
+chaila,9.0,10.0
+raga ceel,9.0,10.0
+ghoryan,9.0,10.0
+indianapolis,9.0,10.0
+bagh-e-shirkat,9.0,10.0
+bolah kowul,9.0,10.0
+pir ismail ziarat,9.0,10.0
+baidoa,9.0,10.0
+hesarak,9.0,10.0
+salawat,9.0,10.0
+ukpomachi,9.0,10.0
+sheko,9.0,10.0
+shibirghan,9.0,10.0
+dabanga,9.0,10.0
+tanwalbougou,9.0,10.0
+kale district,9.0,10.0
+palsegue,9.0,10.0
+hisa-i-awali bihsud district,9.0,10.0
+barakhanah,9.0,10.0
+nahrin district,9.0,10.0
+walyan,9.0,10.0
+keshem district,9.0,10.0
+wadi al azeeb,9.0,10.0
+bushran,9.0,10.0
+ali khail district,9.0,10.0
+majzar district,9.0,10.0
+mahmud raqi,9.0,10.0
+mutuweyi,9.0,10.0
+jar-e khushk,9.0,10.0
+mahala,8.0,9.0
+roiba,8.0,9.0
+adi mesno,8.0,9.0
+shariah shamaliyah,8.0,9.0
+tse-ancha,8.0,9.0
+bost,8.0,9.0
+dhusamareb,8.0,9.0
+kuru,8.0,9.0
+aunguan guida,8.0,9.0
+guzara district,8.0,9.0
+babire,8.0,9.0
+shahada district,8.0,9.0
+bosaso,8.0,9.0
+darga,8.0,9.0
+golweyn,8.0,9.0
+masjid choobi,8.0,9.0
+mira khor,8.0,9.0
+qaramqol district,8.0,9.0
+waghaz district,8.0,9.0
+fabrica qand,8.0,9.0
+hasan karez,8.0,9.0
+ahmad shah baba mina,8.0,9.0
+srinagar,8.0,9.0
+kamaan zamin,8.0,9.0
+nyamitwitwi,8.0,9.0
+al-boudur,8.0,9.0
+muhajir,8.0,9.0
+hawz madad,8.0,9.0
+mansila,8.0,9.0
+qala kah district,8.0,9.0
+balkh district,8.0,9.0
+sari raig,8.0,9.0
+dahan dara,8.0,9.0
+ikwerre district,8.0,9.0
+sharsharak,8.0,9.0
+la capilla,8.0,9.0
+hudaydah,8.0,9.0
+shindand district,8.0,9.0
+hussainkhel,8.0,9.0
+bar gor tapa,8.0,9.0
+qainar,8.0,9.0
+andar district,8.0,9.0
+apende,8.0,9.0
+chehel dokhtaran,8.0,9.0
+damara,8.0,9.0
+doonka,8.0,9.0
+ceel dheere,8.0,9.0
+owerri,8.0,9.0
+darwazbala district,7.0,8.0
+nijrab district,7.0,8.0
+tokombere,7.0,8.0
+al-maysara,7.0,8.0
+dara-i-sufi bala district,7.0,8.0
+tominian,7.0,8.0
+demoso,7.0,8.0
+shakardara district,7.0,8.0
+kuda,7.0,8.0
+naw abad,7.0,8.0
+gurziwan district,7.0,8.0
+shahil,7.0,8.0
+al-madham,7.0,8.0
+al-kadaha,7.0,8.0
+zinjibar,7.0,8.0
+zargarha,7.0,8.0
+ras al-ain,7.0,8.0
+boulikessi,7.0,8.0
+boyo,7.0,8.0
+borena district,7.0,8.0
+gereida,7.0,8.0
+dashti qala district,7.0,8.0
+payan shahr,7.0,8.0
+imam sahib,7.0,8.0
+kogolbaraogo,7.0,8.0
+shamshapur mar ghondi,7.0,8.0
+fayda ibn muwayna,7.0,8.0
+garua,7.0,8.0
+arghandi,7.0,8.0
+jashma bangi,7.0,8.0
+hisarak district,7.0,8.0
+bannu,7.0,8.0
+jigalta,7.0,8.0
+saidah,7.0,8.0
+tchele,7.0,8.0
+panja chinar,7.0,8.0
+dumagmang,7.0,8.0
+shahrak district,7.0,8.0
+markurdi,7.0,8.0
+muthotholi,7.0,8.0
+nyaunglebin,7.0,8.0
+kakarak,7.0,8.0
+khogi ghakhe,7.0,8.0
+yawgul dara,7.0,8.0
+charikar,7.0,8.0
+ebem,7.0,8.0
+sopore,7.0,8.0
+south waziristan district,7.0,8.0
+surkh rod district,7.0,8.0
+fantio,7.0,8.0
+ourfare,7.0,8.0
+alindao,7.0,8.0
+al-sojna,7.0,8.0
+mainok,7.0,8.0
+bergen,7.0,8.0
+kharistan,7.0,8.0
+mahaday,7.0,8.0
+waraou,7.0,8.0
+oicha,7.0,8.0
+mbamondu,7.0,8.0
+zawa,7.0,8.0
+abdulgan,7.0,8.0
+zibane-koira zeno,6.0,7.0
+gorgadji,6.0,7.0
+al-bab,6.0,7.0
+garmsir district,6.0,7.0
+mambelenga,6.0,7.0
+birnin-tudu,6.0,7.0
+wereng,6.0,7.0
+gabado,6.0,7.0
+quitunda,6.0,7.0
+makurdi,6.0,7.0
+wajid,6.0,7.0
+malibo,6.0,7.0
+loumbila,6.0,7.0
+anarjoi,6.0,7.0
+anyom,6.0,7.0
+dinangourou,6.0,7.0
+douentza,6.0,7.0
+tse-jimin,6.0,7.0
+kyaninga,6.0,7.0
+lafoole,6.0,7.0
+talbakoira,6.0,7.0
+islamabad,6.0,7.0
+kumshe,6.0,7.0
+azaz,6.0,7.0
+ndigwe,6.0,7.0
+nawruz khel,6.0,7.0
+jabin,6.0,7.0
+danchu kebelle,6.0,7.0
+baharak district,6.0,7.0
+pashiman darea,6.0,7.0
+kohsan district,6.0,7.0
+dablo,6.0,7.0
+parao,6.0,7.0
+killingwa,6.0,7.0
+shonga,6.0,7.0
+janat bagh,6.0,7.0
+jiba,6.0,7.0
+khanabad,6.0,7.0
+odoro ikpe,6.0,7.0
+tamu,6.0,7.0
+kinda,6.0,7.0
+pan thar,6.0,7.0
+chashma sher,6.0,7.0
+kinyatsi,6.0,7.0
+chambus kol,6.0,7.0
+khwaja ghar district,6.0,7.0
+oba,6.0,7.0
+barghuli,6.0,7.0
+adraskan district,6.0,7.0
+gom,6.0,7.0
+matazem,6.0,7.0
+abaiji,5.0,6.0
+mayimoya,5.0,6.0
+miyan-dujouee,5.0,6.0
+guangzhou,5.0,6.0
+misisi,5.0,6.0
+ozubulu,5.0,6.0
+kambo,5.0,6.0
+mamand dara,5.0,6.0
+mandalay,5.0,6.0
+chambimbal,5.0,6.0
+sofokel,5.0,6.0
+tarale kando,5.0,6.0
+surobi district,5.0,6.0
+obegu,5.0,6.0
+bulobarde,5.0,6.0
+kalemba,5.0,6.0
+chahar gul,5.0,6.0
+mighende,5.0,6.0
+michalgho,5.0,6.0
+mindat,5.0,6.0
+gor tepa,5.0,6.0
+tarmiyah,5.0,6.0
+kasuwan magani,5.0,6.0
+kanbila,5.0,6.0
+bougouni,5.0,6.0
+tajikan,5.0,6.0
+beni district,5.0,6.0
+tangi abreshum,5.0,6.0
+sozma qala district,5.0,6.0
+tandoori,5.0,6.0
+jar quduq,5.0,6.0
+shinkay district,5.0,6.0
+jani khel,5.0,6.0
+bama khel,5.0,6.0
+bakhmal kocha,5.0,6.0
+jayzani,5.0,6.0
+jazrat al-milaj,5.0,6.0
+feroz nakhchir district,5.0,6.0
+hajda kotal,5.0,6.0
+bangassou,5.0,6.0
+chinarak,5.0,6.0
+sada,5.0,6.0
+gach garez,5.0,6.0
+pangane,5.0,6.0
+bandiba,5.0,6.0
+chawni,5.0,6.0
+barawul payam,5.0,6.0
+nowshera district,5.0,6.0
+nurzai,5.0,6.0
+chahar burjah,5.0,6.0
+al-maziq,5.0,6.0
+sabar,5.0,6.0
+rutbah district,5.0,6.0
+sai azad,5.0,6.0
+shindand,5.0,6.0
+sumalebu,5.0,6.0
+azlik,5.0,6.0
+arellano buenavista,5.0,6.0
+musa abad,5.0,6.0
+oropoma,5.0,6.0
+tala wa barfak district,5.0,6.0
+orieagu,5.0,6.0
+naft khanah,5.0,6.0
+lassin,5.0,6.0
+argahandab district,5.0,6.0
+landi kotal,5.0,6.0
+oueid khenig-roum,5.0,6.0
+bezaa,5.0,6.0
+bihsud district,5.0,6.0
+la sierra,5.0,6.0
+di,5.0,6.0
+dialloube,5.0,6.0
+pul-e-khishti,5.0,6.0
+shafa,5.0,6.0
+naltar,5.0,6.0
+dorahi,5.0,6.0
+zongo-akiki,5.0,6.0
+riyadh,5.0,6.0
+ahmad abad,5.0,6.0
+zakhel,5.0,6.0
+maywand district,5.0,6.0
+narayanpur district,5.0,6.0
+arhab district,5.0,6.0
+ashpushta,5.0,6.0
+pundanhar,5.0,6.0
+darayim,5.0,6.0
+deh surkh,5.0,6.0
+at tuhayta,5.0,6.0
+lowereng,5.0,6.0
+bahatsha,5.0,6.0
+jalawla,5.0,6.0
+kukutama,5.0,6.0
+darqad,5.0,6.0
+shahri buzurg district,5.0,6.0
+shahrag,5.0,6.0
+kwada kwamtah yahi,5.0,6.0
+darayim district,5.0,6.0
+udam,5.0,6.0
+ishkamish district,5.0,6.0
+santander de quilichao,5.0,6.0
+ugbolu,5.0,6.0
+pera khel,5.0,6.0
+mullah khel,5.0,6.0
+iwollo oghe,5.0,6.0
+kilia,5.0,6.0
+kohna kaldar,5.0,6.0
+bala hesar,5.0,6.0
+tijime,5.0,6.0
+ukuse,5.0,6.0
+salihan,5.0,6.0
+alishang,5.0,6.0
+umuhuali,5.0,6.0
+hawak district,5.0,6.0
+daman district,5.0,6.0
+al-jadaan,4.0,5.0
+yakh sah,4.0,5.0
+soof karez,4.0,5.0
+al-shainah,4.0,5.0
+monguno,4.0,5.0
+shir khan bandar,4.0,5.0
+shirin tagab,4.0,5.0
+shor tepa district,4.0,5.0
+bak district,4.0,5.0
+band-e-qashqah,4.0,5.0
+banah,4.0,5.0
+bakhshaka,4.0,5.0
+sai buri district,4.0,5.0
+quionga,4.0,5.0
+hakha,4.0,5.0
+odokem,4.0,5.0
+busayrah,4.0,5.0
+omuo-ekiti,4.0,5.0
+omuma,4.0,5.0
+charkh ab,4.0,5.0
+joyee begum,4.0,5.0
+sirahi hofian,4.0,5.0
+gur,4.0,5.0
+gwer west district,4.0,5.0
+rustaq district,4.0,5.0
+shwebo district,4.0,5.0
+shumy,4.0,5.0
+bangu,4.0,5.0
+chishti sharif,4.0,5.0
+chora district,4.0,5.0
+chishti sharif district,4.0,5.0
+bandiagara,4.0,5.0
+bandigara,4.0,5.0
+ganji,4.0,5.0
+gabada,4.0,5.0
+rumuji,4.0,5.0
+al-rai,4.0,5.0
+obakota,4.0,5.0
+pagatin,4.0,5.0
+kalemago,4.0,5.0
+kamana,4.0,5.0
+calabar,4.0,5.0
+butembo,4.0,5.0
+mirzakah,4.0,5.0
+manzakai,4.0,5.0
+afmadow,4.0,5.0
+miyende,4.0,5.0
+yawan district,4.0,5.0
+galkayo,4.0,5.0
+rudha gaz,4.0,5.0
+ruaikha,4.0,5.0
+gorey,4.0,5.0
+biyo adde,4.0,5.0
+joy-e ghazi,4.0,5.0
+tani district,4.0,5.0
+kabsh gharbi,4.0,5.0
+rashad,4.0,5.0
+mapili,4.0,5.0
+paghman district,4.0,5.0
+kahan,4.0,5.0
+jowhar,4.0,5.0
+ngagam,4.0,5.0
+baharak,4.0,5.0
+jalingo,4.0,5.0
+ekile,4.0,5.0
+amazu,4.0,5.0
+nkalaha,4.0,5.0
+awka,4.0,5.0
+nduobasi,4.0,5.0
+trinidad,4.0,5.0
+shahbaz khel,4.0,5.0
+arab koy,4.0,5.0
+turbat,4.0,5.0
+huarcatan,4.0,5.0
+bukiringi,4.0,5.0
+ubakala,4.0,5.0
+jabal murad district,4.0,5.0
+kukal dash,4.0,5.0
+babar,4.0,5.0
+ekpufu,4.0,5.0
+sangaan,4.0,5.0
+london,4.0,5.0
+loma larga,4.0,5.0
+shakh-e-mazar,4.0,5.0
+izombe,4.0,5.0
+helope,4.0,5.0
+kitango,4.0,5.0
+faje,4.0,5.0
+nkalagu,4.0,5.0
+dara-e-kian,4.0,5.0
+luneke,4.0,5.0
+anbar,4.0,5.0
+andkhoy district,4.0,5.0
+umuaka,4.0,5.0
+ngaka,4.0,5.0
+kotal e shiniya,4.0,5.0
+oicha-maleki,4.0,5.0
+khak chopan,4.0,5.0
+khamshur,4.0,5.0
+dih bala district,4.0,5.0
+imande akpu,4.0,5.0
+ash sholah,4.0,5.0
+pule-kibaly,4.0,5.0
+pusht rod district,4.0,5.0
+oro mourou,4.0,5.0
+sarchakan,4.0,5.0
+dune,4.0,5.0
+bingki,4.0,5.0
+idiyan,4.0,5.0
+dilaram,4.0,5.0
+ilaga,4.0,5.0
+ibrahim khil,4.0,5.0
+ignacio jurado,4.0,5.0
+ataloga,4.0,5.0
+atlanta,4.0,5.0
+zartalai,4.0,5.0
+ipi,4.0,5.0
+ijoun,4.0,5.0
+djamnati,4.0,5.0
+ghobar areq,4.0,5.0
+yaq-bimo,4.0,5.0
+agu center,4.0,5.0
+zarkah,4.0,5.0
+aden,4.0,5.0
+mangundu,4.0,5.0
+zargar tara,4.0,5.0
+onyadama,4.0,5.0
+mekelle,4.0,5.0
+zirshe,4.0,5.0
+acworth,4.0,5.0
+abua,4.0,5.0
+gouzoudou,3.0,4.0
+abobo,3.0,4.0
+mbujimayi,3.0,4.0
+zargwra,3.0,4.0
+kebe,3.0,4.0
+matanga,3.0,4.0
+wosh zawara,3.0,4.0
+marraban jos,3.0,4.0
+rabat,3.0,4.0
+rafin kada,3.0,4.0
+raghistan district,3.0,4.0
+ghorband district,3.0,4.0
+rogola,3.0,4.0
+gorgoray,3.0,4.0
+najd qurayn,3.0,4.0
+doab,3.0,4.0
+sarwari,3.0,4.0
+dogon gawa,3.0,4.0
+igbooro,3.0,4.0
+arvada,3.0,4.0
+lahore,3.0,4.0
+dena,3.0,4.0
+piron,3.0,4.0
+tse nyarei,3.0,4.0
+nadir shah kot district,3.0,4.0
+arghistan,3.0,4.0
+tsoro,3.0,4.0
+lawan-mainari,3.0,4.0
+lawaypora,3.0,4.0
+puli khumri district,3.0,4.0
+kapoka,3.0,4.0
+bialong,3.0,4.0
+khaisorah,3.0,4.0
+assa,3.0,4.0
+deh rahwod district,3.0,4.0
+awkuzu,3.0,4.0
+isuofia,3.0,4.0
+dhuluiya,3.0,4.0
+hudur,3.0,4.0
+hombori,3.0,4.0
+hoyohatu,3.0,4.0
+daquq,3.0,4.0
+jabibar,3.0,4.0
+kor dara,3.0,4.0
+bagourou,3.0,4.0
+babaji,3.0,4.0
+bagrami district,3.0,4.0
+deh qazi,3.0,4.0
+pashdan,3.0,4.0
+jaghatu district,3.0,4.0
+tin akoff,3.0,4.0
+kormatto,3.0,4.0
+kotal qala,3.0,4.0
+kotchari,3.0,4.0
+ngumari,3.0,4.0
+amudu,3.0,4.0
+lopa,3.0,4.0
+lukaya,3.0,4.0
+magumeri,3.0,4.0
+umuokwe,3.0,4.0
+alon shvut,3.0,4.0
+urum,3.0,4.0
+ukum district,3.0,4.0
+elimgbu,3.0,4.0
+dyom,3.0,4.0
+hari pari gam,3.0,4.0
+maine soroa,3.0,4.0
+mpophomeni,3.0,4.0
+mudiyah,3.0,4.0
+essoh attah,3.0,4.0
+ezza south district,3.0,4.0
+sambangu,3.0,4.0
+samboko,3.0,4.0
+dadiwala,3.0,4.0
+thanatgone,3.0,4.0
+kompienga district,3.0,4.0
+nkedorong,3.0,4.0
+noh burjah,3.0,4.0
+tessalit,3.0,4.0
+dar qad neyazullah kalay,3.0,4.0
+shamlan,3.0,4.0
+san rafael,3.0,4.0
+falouja,3.0,4.0
+alangai,3.0,4.0
+wadi al-safa,3.0,4.0
+wadia,3.0,4.0
+alaqadari-i-almar,3.0,4.0
+war maxan,3.0,4.0
+washington,3.0,4.0
+wassakore,3.0,4.0
+mondoro,3.0,4.0
+makeke,3.0,4.0
+makisabo,3.0,4.0
+malakal,3.0,4.0
+sholgara,3.0,4.0
+jarabulus,3.0,4.0
+band-e-bain,3.0,4.0
+kisumu,3.0,4.0
+omarzai,3.0,4.0
+tamboral,3.0,4.0
+khanaqin district,3.0,4.0
+ouzal,3.0,4.0
+quirinde,3.0,4.0
+gala tut,3.0,4.0
+sabga,3.0,4.0
+molai,3.0,4.0
+west shewa district,3.0,4.0
+winthrop,3.0,4.0
+bani saad,3.0,4.0
+banisa,3.0,4.0
+tehini,3.0,4.0
+chukchuk,3.0,4.0
+chamkani district,3.0,4.0
+chamtala,3.0,4.0
+tashkan district,3.0,4.0
+banquerohan,3.0,4.0
+kirkuk,3.0,4.0
+kishosho,3.0,4.0
+nsukwa,3.0,4.0
+silger,3.0,4.0
+garas balley,3.0,4.0
+ruhaina,3.0,4.0
+rumirgo,3.0,4.0
+wurzburg,3.0,4.0
+yaftal sufla district,3.0,4.0
+yakila,3.0,4.0
+sirki kuch,3.0,4.0
+barwati,3.0,4.0
+taraki-ha,3.0,4.0
+khash district,3.0,4.0
+kafolo,3.0,4.0
+kahda,3.0,4.0
+takhsab,3.0,4.0
+kandahar district,3.0,4.0
+kanju,3.0,4.0
+kanker district,3.0,4.0
+kanyamahoro,3.0,4.0
+bosso,3.0,4.0
+bla-goussi tourou,3.0,4.0
+swabi,3.0,4.0
+budi district,3.0,4.0
+yangi qala district,3.0,4.0
+bunia,3.0,4.0
+pailitas,3.0,4.0
+kalalangwe,3.0,4.0
+baure,3.0,4.0
+bazarak,3.0,4.0
+obe,3.0,4.0
+kaliari-nguetchewe,3.0,4.0
+chahar qala,3.0,4.0
+rowza,3.0,4.0
+godam,3.0,4.0
+gereshk,3.0,4.0
+kamuya,3.0,4.0
+gazah,3.0,4.0
+gujba,3.0,4.0
+al-bu bakr,3.0,4.0
+mitope,3.0,4.0
+abraka,3.0,4.0
+abi adi,3.0,4.0
+masana,3.0,4.0
+afaat center,3.0,4.0
+abazano,2.0,3.0
+maymana,2.0,3.0
+mashkai,2.0,3.0
+masisi district,2.0,3.0
+miango,2.0,3.0
+mihtarlam,2.0,3.0
+milampilli,2.0,3.0
+min nay kone,2.0,3.0
+mir bacha kot district,2.0,3.0
+maqbanah,2.0,3.0
+marjah,2.0,3.0
+ramadi,2.0,3.0
+riyom district,2.0,3.0
+ghazali,2.0,3.0
+rambouillet,2.0,3.0
+ain issa,2.0,3.0
+akashat,2.0,3.0
+akbar bai,2.0,3.0
+yitzhar,2.0,3.0
+yoruba,2.0,3.0
+yao-yao,2.0,3.0
+al-aith,2.0,3.0
+quneitra,2.0,3.0
+garin gada,2.0,3.0
+guchhaguda,2.0,3.0
+yabatalou,2.0,3.0
+al-jalisiya,2.0,3.0
+manga,2.0,3.0
+wedow,2.0,3.0
+wibora,2.0,3.0
+witoke,2.0,3.0
+al-mosafer,2.0,3.0
+al-mushbah,2.0,3.0
+al-shadadi,2.0,3.0
+makassar,2.0,3.0
+alagano,2.0,3.0
+alamkhel,2.0,3.0
+wana,2.0,3.0
+valera,2.0,3.0
+alasay district,2.0,3.0
+halwan,2.0,3.0
+qoqaye,2.0,3.0
+qotar blaq,2.0,3.0
+folad,2.0,3.0
+saberi district,2.0,3.0
+ganz,2.0,3.0
+rutbah,2.0,3.0
+ruyi du ab district,2.0,3.0
+rwamisave,2.0,3.0
+ali al-sharqi,2.0,3.0
+alika,2.0,3.0
+mopti district,2.0,3.0
+moshav ohad,2.0,3.0
+mount hamrin,2.0,3.0
+qara parchaw,2.0,3.0
+qarqach,2.0,3.0
+sahidan,2.0,3.0
+fallujah,2.0,3.0
+mulayan,2.0,3.0
+unguwan madaki,2.0,3.0
+aloja,2.0,3.0
+aluakluak,2.0,3.0
+amarah,2.0,3.0
+ukana ikot ntuen,2.0,3.0
+anas,2.0,3.0
+umu-ugadu,2.0,3.0
+mullahkhil,2.0,3.0
+muqdadiyah,2.0,3.0
+muqdadiyah district,2.0,3.0
+muqur,2.0,3.0
+antongalon,2.0,3.0
+appi,2.0,3.0
+udei,2.0,3.0
+ugboke,2.0,3.0
+ugbuodo,2.0,3.0
+dyudei,2.0,3.0
+eduardo mondlane,2.0,3.0
+hasakah,2.0,3.0
+salem,2.0,3.0
+muzayrib,2.0,3.0
+layegh,2.0,3.0
+lambakin,2.0,3.0
+ashkelon,2.0,3.0
+tse zoola,2.0,3.0
+san salvador,2.0,3.0
+san vicente,2.0,3.0
+el faki ahmed zakariya,2.0,3.0
+el ripial,2.0,3.0
+encho,2.0,3.0
+tse-iber,2.0,3.0
+nad ali district,2.0,3.0
+labbezenga,2.0,3.0
+lal wa sarjangal district,2.0,3.0
+laman,2.0,3.0
+namkhan,2.0,3.0
+nana kenieba,2.0,3.0
+kyiywa,2.0,3.0
+nasiriha,2.0,3.0
+nawa district,2.0,3.0
+tormay,2.0,3.0
+tourou,2.0,3.0
+travesias,2.0,3.0
+ekondo titi,2.0,3.0
+sang aab,2.0,3.0
+sango,2.0,3.0
+santo tomas jalieza,2.0,3.0
+nawa-i-barakzayi district,2.0,3.0
+nawah,2.0,3.0
+kushk district,2.0,3.0
+kumbo,2.0,3.0
+babonga,2.0,3.0
+babuzai,2.0,3.0
+bachidubi,2.0,3.0
+aveyi,2.0,3.0
+ayethaya,2.0,3.0
+kunming,2.0,3.0
+nawur district,2.0,3.0
+nazate,2.0,3.0
+nazyan district,2.0,3.0
+pul-e-matak,2.0,3.0
+dwa toi,2.0,3.0
+sar-e howz,2.0,3.0
+hussain khel,2.0,3.0
+koulpiko,2.0,3.0
+baghak,2.0,3.0
+timber junction,2.0,3.0
+tingrai,2.0,3.0
+tofaha,2.0,3.0
+kotal khel,2.0,3.0
+nguti,2.0,3.0
+nicolas,2.0,3.0
+dhu ghaithan,2.0,3.0
+ika district,2.0,3.0
+ibiaku ntok okpo,2.0,3.0
+bagram,2.0,3.0
+kokona district,2.0,3.0
+kolofata,2.0,3.0
+kologobo,2.0,3.0
+kombou,2.0,3.0
+nirkh district,2.0,3.0
+nnodo,2.0,3.0
+tel aviv,2.0,3.0
+bajo caura,2.0,3.0
+norakinga,2.0,3.0
+kitimba,2.0,3.0
+baqubah,2.0,3.0
+band-e-ziyarat,2.0,3.0
+pissila,2.0,3.0
+injil district,2.0,3.0
+intan jaya district,2.0,3.0
+poblacion,2.0,3.0
+dioura,2.0,3.0
+do aaba,2.0,3.0
+dobandi,2.0,3.0
+shah qadam,2.0,3.0
+bandar kalaft,2.0,3.0
+kirumbu,2.0,3.0
+kismayo,2.0,3.0
+nyalibati,2.0,3.0
+nyaung hla,2.0,3.0
+barsalogho,2.0,3.0
+tarkhoo,2.0,3.0
+khwaja baha wuddin district,2.0,3.0
+khwaja gogerdak,2.0,3.0
+khwaran,2.0,3.0
+kibanda,2.0,3.0
+tank district,2.0,3.0
+ishakani,2.0,3.0
+islah,2.0,3.0
+dhubab,2.0,3.0
+dekai,2.0,3.0
+del carmen,2.0,3.0
+khwaja alwan,2.0,3.0
+obama,2.0,3.0
+beir al-abd,2.0,3.0
+obodo ocha,2.0,3.0
+obosi,2.0,3.0
+ocotlan district,2.0,3.0
+kharnaidisha,2.0,3.0
+bhatpara,2.0,3.0
+bheji,2.0,3.0
+bijbehara,2.0,3.0
+tal shihab,2.0,3.0
+tall abyad,2.0,3.0
+jablipora,2.0,3.0
+shahr-e safa district,2.0,3.0
+shaikh qalandar baba,2.0,3.0
+khakrez district,2.0,3.0
+ofatura,2.0,3.0
+olumboa,2.0,3.0
+kendwal,2.0,3.0
+kerena,2.0,3.0
+karachi,2.0,3.0
+karez elyas,2.0,3.0
+tajkano,2.0,3.0
+takatami,2.0,3.0
+kashkak,2.0,3.0
+jaje tapa,2.0,3.0
+darumba,2.0,3.0
+dando,2.0,3.0
+izra,2.0,3.0
+bognori,2.0,3.0
+tabqah,2.0,3.0
+buhriz,2.0,3.0
+bujumbura,2.0,3.0
+orji,2.0,3.0
+otuebu elebe,2.0,3.0
+busayyah,2.0,3.0
+soorkot,2.0,3.0
+soweissa,2.0,3.0
+spinwam,2.0,3.0
+kamar kalgh,2.0,3.0
+papallasen,2.0,3.0
+parou,2.0,3.0
+parzali,2.0,3.0
+dahamsh,2.0,3.0
+dara shakh,2.0,3.0
+shanda manda,2.0,3.0
+shar-e naw,2.0,3.0
+kampala,2.0,3.0
+owode-ketu,2.0,3.0
+pachir agam district,2.0,3.0
+cabas-an,2.0,3.0
+burdhubo,2.0,3.0
+kala,2.0,3.0
+kalingi,2.0,3.0
+palo dheri,2.0,3.0
+kabakaba,2.0,3.0
+chahar bolak district,2.0,3.0
+charkh district,2.0,3.0
+chawk-e-arghandi,2.0,3.0
+jugbere,2.0,3.0
+jerusalem,2.0,3.0
+jeyu,2.0,3.0
+corinto,2.0,3.0
+cotabato city,2.0,3.0
+pangari,2.0,3.0
+shouk al-reem,2.0,3.0
+choba,2.0,3.0
+mbayer-yandev,2.0,3.0
+adoor aggwei,2.0,3.0
+agua viva,2.0,3.0
+ahmad abad district,2.0,3.0
+rangae district,2.0,3.0
+zigague,2.0,3.0
+zogu,2.0,3.0
+mbwavinwa,2.0,3.0
+adani,2.0,3.0
+zhar sahib,2.0,3.0
+zove,1.0,2.0
+zelikan,1.0,2.0
+mavivi,1.0,2.0
+mir ali,1.0,2.0
+rafah,1.0,2.0
+ghomeen,1.0,2.0
+rishon lezion,1.0,2.0
+rizal,1.0,2.0
+rohtas district,1.0,2.0
+romangaob,1.0,2.0
+rawalpindi,1.0,2.0
+richards bay,1.0,2.0
+gifgafa,1.0,2.0
+gloz,1.0,2.0
+ghani khel,1.0,2.0
+goniri,1.0,2.0
+marjan,1.0,2.0
+manikpur,1.0,2.0
+ajaawa,1.0,2.0
+julukoma,1.0,2.0
+jurf al-nasr,1.0,2.0
+jurm,1.0,2.0
+pandan,1.0,2.0
+pandra,1.0,2.0
+pangi,1.0,2.0
+panjgur,1.0,2.0
+shotor gardan,1.0,2.0
+chorhat,1.0,2.0
+sibsib,1.0,2.0
+sidakan,1.0,2.0
+panjpiran,1.0,2.0
+jawdara,1.0,2.0
+mbakpa,1.0,2.0
+mbatyough,1.0,2.0
+marwah,1.0,2.0
+chaungsone,1.0,2.0
+cheltan,1.0,2.0
+chergo,1.0,2.0
+joyak,1.0,2.0
+jelma district,1.0,2.0
+jinderes,1.0,2.0
+jindires,1.0,2.0
+jiyanpur,1.0,2.0
+joul al-raidah,1.0,2.0
+jamuria,1.0,2.0
+concepcion,1.0,2.0
+shinwar district,1.0,2.0
+shoroman,1.0,2.0
+jani khel district,1.0,2.0
+janzour,1.0,2.0
+jarabulus district,1.0,2.0
+sirajganj district,1.0,2.0
+sitalkuchi,1.0,2.0
+sitio nuevo,1.0,2.0
+siyabuswa,1.0,2.0
+solmnore,1.0,2.0
+sonoyta,1.0,2.0
+sonpur,1.0,2.0
+pakokku,1.0,2.0
+palampas,1.0,2.0
+palnar,1.0,2.0
+kaigourou,1.0,2.0
+chanchanji,1.0,2.0
+chanmyathazi,1.0,2.0
+chapal,1.0,2.0
+cato ridge,1.0,2.0
+simikanda,1.0,2.0
+shatrah,1.0,2.0
+owerri district,1.0,2.0
+pa bon,1.0,2.0
+cabruta,1.0,2.0
+calasiao district,1.0,2.0
+cali,1.0,2.0
+canlubang,1.0,2.0
+capiton,1.0,2.0
+bulire,1.0,2.0
+buraiqeh district,1.0,2.0
+burj haidar,1.0,2.0
+pahurnar,1.0,2.0
+pailahueque,1.0,2.0
+kaldar district,1.0,2.0
+painnegone,1.0,2.0
+pajo,1.0,2.0
+orsu district,1.0,2.0
+oshodi,1.0,2.0
+ossing,1.0,2.0
+osso banyungu,1.0,2.0
+busumba,1.0,2.0
+kalungan,1.0,2.0
+kama district,1.0,2.0
+kamkheda,1.0,2.0
+jasiira,1.0,2.0
+pardoni,1.0,2.0
+parwana,1.0,2.0
+damadola,1.0,2.0
+sheikh zuweid,1.0,2.0
+shamsipora,1.0,2.0
+shapak,1.0,2.0
+shariff aguak,1.0,2.0
+daojingphang,1.0,2.0
+izmir,1.0,2.0
+jabli pora,1.0,2.0
+katekalyan,1.0,2.0
+kanaqol,1.0,2.0
+kandapenta,1.0,2.0
+kanigorram,1.0,2.0
+bot khak,1.0,2.0
+bir ahmad,1.0,2.0
+bir nabala,1.0,2.0
+tachileik,1.0,2.0
+tadjourah,1.0,2.0
+brisas de caranal,1.0,2.0
+bukuru,1.0,2.0
+bonali,1.0,2.0
+orma,1.0,2.0
+taif,1.0,2.0
+taighe taimur,1.0,2.0
+takhta,1.0,2.0
+tal al-tabaa,1.0,2.0
+tal aziz,1.0,2.0
+karukh district,1.0,2.0
+kata kopruk,1.0,2.0
+shaykh uthman,1.0,2.0
+daarul salaam,1.0,2.0
+jaji maydan district,1.0,2.0
+jakarta,1.0,2.0
+jallam,1.0,2.0
+jamil khudair bazaiz,1.0,2.0
+iwere-ile,1.0,2.0
+darzab district,1.0,2.0
+dambet,1.0,2.0
+pescador,1.0,2.0
+tall dhahab,1.0,2.0
+khabr al-maraqisha,1.0,2.0
+khadi,1.0,2.0
+khagaria district,1.0,2.0
+offa district,1.0,2.0
+ofra,1.0,2.0
+oghara,1.0,2.0
+oha,1.0,2.0
+oke-irori,1.0,2.0
+okokodo,1.0,2.0
+okpokwu district,1.0,2.0
+olorunda,1.0,2.0
+orchha,1.0,2.0
+karbala,1.0,2.0
+taguig,1.0,2.0
+khanaqa,1.0,2.0
+kermapal,1.0,2.0
+bilchiragh district,1.0,2.0
+bilogai,1.0,2.0
+patpat,1.0,2.0
+peddagellur,1.0,2.0
+pegunungan bintang district,1.0,2.0
+perangi baro,1.0,2.0
+pereira,1.0,2.0
+datta khel,1.0,2.0
+deh,1.0,2.0
+dera ismail khan,1.0,2.0
+derker,1.0,2.0
+dewah gal,1.0,2.0
+dewana baba,1.0,2.0
+pervari district,1.0,2.0
+barikab,1.0,2.0
+khin-u,1.0,2.0
+khogyani district,1.0,2.0
+khok pho district,1.0,2.0
+khost wa firing district,1.0,2.0
+khursipar khurd,1.0,2.0
+obibi,1.0,2.0
+obiozara,1.0,2.0
+talnaar,1.0,2.0
+talo halo,1.0,2.0
+bazidkhel,1.0,2.0
+belfast,1.0,2.0
+beoga,1.0,2.0
+tangi,1.0,2.0
+tangi qaraqul,1.0,2.0
+khan younis,1.0,2.0
+tappi,1.0,2.0
+batabat sur,1.0,2.0
+batie,1.0,2.0
+bay district,1.0,2.0
+bazar,1.0,2.0
+peshawar,1.0,2.0
+isey,1.0,2.0
+isihor,1.0,2.0
+isla buenos aires,1.0,2.0
+itikan,1.0,2.0
+iwaraja,1.0,2.0
+phaya thonesu,1.0,2.0
+pinlon,1.0,2.0
+dibis district,1.0,2.0
+didroz,1.0,2.0
+dembi dolo,1.0,2.0
+shagbaor,1.0,2.0
+kiryat arba,1.0,2.0
+nowgam,1.0,2.0
+nurgaram district,1.0,2.0
+barqa,1.0,2.0
+barwana,1.0,2.0
+bashir,1.0,2.0
+basima,1.0,2.0
+tarin kot district,1.0,2.0
+tarkint,1.0,2.0
+khwaja lakan,1.0,2.0
+khwaja sabz posh district,1.0,2.0
+kifah,1.0,2.0
+kifri district,1.0,2.0
+kihkad,1.0,2.0
+khashang,1.0,2.0
+kitshanga,1.0,2.0
+klela,1.0,2.0
+kofai amadu,1.0,2.0
+bangonay,1.0,2.0
+tasma,1.0,2.0
+taunggyi,1.0,2.0
+bar tasan,1.0,2.0
+barddhaman,1.0,2.0
+bardere,1.0,2.0
+pir-e-ghaibi,1.0,2.0
+ini district,1.0,2.0
+inlowo,1.0,2.0
+pole-e shahrawan,1.0,2.0
+diphu,1.0,2.0
+diwaniyah,1.0,2.0
+sderot,1.0,2.0
+idemili south district,1.0,2.0
+sayd khel district,1.0,2.0
+sayyad,1.0,2.0
+doka,1.0,2.0
+dinsor,1.0,2.0
+igua,1.0,2.0
+tiguma,1.0,2.0
+kohbaki,1.0,2.0
+kohna qala,1.0,2.0
+tekanar,1.0,2.0
+temrugaon,1.0,2.0
+bamhani,1.0,2.0
+banchhara para,1.0,2.0
+north waziristan district,1.0,2.0
+novotoshkivske,1.0,2.0
+kitovo,1.0,2.0
+niamey,1.0,2.0
+niem,1.0,2.0
+bala,1.0,2.0
+balikumbat,1.0,2.0
+thaton district,1.0,2.0
+thayetkhan,1.0,2.0
+thephyuwa,1.0,2.0
+thipaw,1.0,2.0
+tialbonga,1.0,2.0
+polonuling,1.0,2.0
+pondum,1.0,2.0
+posta-e-bairaq,1.0,2.0
+iju,1.0,2.0
+ikot afanga,1.0,2.0
+ilambet,1.0,2.0
+idah,1.0,2.0
+ibarapa east district,1.0,2.0
+kudaburu,1.0,2.0
+kukur,1.0,2.0
+kondo,1.0,2.0
+bacuag,1.0,2.0
+bagh dari,1.0,2.0
+bagh-e-dawood,1.0,2.0
+bagmari,1.0,2.0
+bab al-hawa,1.0,2.0
+bagram district,1.0,2.0
+bahrami shahid district,1.0,2.0
+bahuahi,1.0,2.0
+baijat,1.0,2.0
+tindi,1.0,2.0
+kothapalle,1.0,2.0
+new bwari,1.0,2.0
+nekemte,1.0,2.0
+neni,1.0,2.0
+netiv ha'asara,1.0,2.0
+kotrapal,1.0,2.0
+kotwal,1.0,2.0
+pul-e-ahany,1.0,2.0
+pul-e-daryay-e-kalakan,1.0,2.0
+pul-e-shashmetra,1.0,2.0
+puli alam district,1.0,2.0
+durani,1.0,2.0
+sapele,1.0,2.0
+sar hawza district,1.0,2.0
+sarak-e-panj,1.0,2.0
+saravan,1.0,2.0
+sargento jose felix lopez district,1.0,2.0
+ibadan,1.0,2.0
+santiago,1.0,2.0
+sao joao do triunfo,1.0,2.0
+asil targao,1.0,2.0
+kurram district,1.0,2.0
+kuz kunar district,1.0,2.0
+kulangar,1.0,2.0
+kumba,1.0,2.0
+bacho,1.0,2.0
+awlad-e-ata-mohammad,1.0,2.0
+awommama,1.0,2.0
+ayamelum district,1.0,2.0
+aybak,1.0,2.0
+kunduz district,1.0,2.0
+kurin,1.0,2.0
+ndian district,1.0,2.0
+neiva,1.0,2.0
+azizkhel,1.0,2.0
+tot mazar,1.0,2.0
+tougbo,1.0,2.0
+toumousseni,1.0,2.0
+tral,1.0,2.0
+trindad,1.0,2.0
+ibegwa-ani,1.0,2.0
+hilaywah,1.0,2.0
+hizma,1.0,2.0
+homalin,1.0,2.0
+horlivka,1.0,2.0
+el descanso,1.0,2.0
+sanjidak,1.0,2.0
+santa cruz,1.0,2.0
+santa cruz de juventino rosas,1.0,2.0
+santa isabel,1.0,2.0
+asadabad,1.0,2.0
+asadiyah,1.0,2.0
+labu-labu,1.0,2.0
+laja ahmad khail district,1.0,2.0
+lakhtonghai,1.0,2.0
+lala bay,1.0,2.0
+namt swan,1.0,2.0
+namya,1.0,2.0
+nani,1.0,2.0
+narmakaw,1.0,2.0
+la chapelle-sur-erdre,1.0,2.0
+la maelstrom,1.0,2.0
+la parada,1.0,2.0
+la plancha,1.0,2.0
+naung bo,1.0,2.0
+naw doman,1.0,2.0
+el palo,1.0,2.0
+el pinche,1.0,2.0
+dwo-jou,1.0,2.0
+tse-shishim,1.0,2.0
+tseagbungu,1.0,2.0
+tshibitshibi,1.0,2.0
+lanuza,1.0,2.0
+larrazabal,1.0,2.0
+latambar,1.0,2.0
+nadoman,1.0,2.0
+nahr-e-chaman,1.0,2.0
+atabapo,1.0,2.0
+athens,1.0,2.0
+athman,1.0,2.0
+aungban,1.0,2.0
+ariyan,1.0,2.0
+myintant,1.0,2.0
+lau kunini,1.0,2.0
+lawa-an,1.0,2.0
+laygayon,1.0,2.0
+lamba,1.0,2.0
+ash shaikh outhman district,1.0,2.0
+ashaka,1.0,2.0
+asheqan,1.0,2.0
+sapary targaoo,1.0,2.0
+du aab,1.0,2.0
+hoshab,1.0,2.0
+qala-e-gord aab,1.0,2.0
+qala-e-mohammad,1.0,2.0
+qala-e-reeg,1.0,2.0
+qalandiyah,1.0,2.0
+hawijah,1.0,2.0
+linatuyan,1.0,2.0
+lipa,1.0,2.0
+livano,1.0,2.0
+loikaw district,1.0,2.0
+musuku,1.0,2.0
+mutuang,1.0,2.0
+arbil,1.0,2.0
+ari bagh,1.0,2.0
+ariel,1.0,2.0
+tubas,1.0,2.0
+tukums,1.0,2.0
+tulak district,1.0,2.0
+tunkushe,1.0,2.0
+myawaddy district,1.0,2.0
+myeik district,1.0,2.0
+myingyan district,1.0,2.0
+ugu district,1.0,2.0
+ebenato,1.0,2.0
+hawijah district,1.0,2.0
+hays,1.0,2.0
+hazar sumuch district,1.0,2.0
+hebron,1.0,2.0
+heremakano,1.0,2.0
+hareri hosle,1.0,2.0
+harifkhil,1.0,2.0
+salang district,1.0,2.0
+salka,1.0,2.0
+eromage,1.0,2.0
+eronggobak,1.0,2.0
+muse,1.0,2.0
+muse district,1.0,2.0
+lice district,1.0,2.0
+haji lawang,1.0,2.0
+halfaya,1.0,2.0
+mudiyah district,1.0,2.0
+mukairas,1.0,2.0
+mukha,1.0,2.0
+umueze obiangwu,1.0,2.0
+ambeli,1.0,2.0
+amoka,1.0,2.0
+anan,1.0,2.0
+um al-khanazir,1.0,2.0
+umm batne,1.0,2.0
+mullaitivu,1.0,2.0
+lubo baya,1.0,2.0
+murapani,1.0,2.0
+antipolo del sur,1.0,2.0
+ugbodo,1.0,2.0
+moralia,1.0,2.0
+moura ban shakh,1.0,2.0
+luz,1.0,2.0
+maayongtubig,1.0,2.0
+macogon,1.0,2.0
+magam,1.0,2.0
+hawara,1.0,2.0
+hawi kunaytra,1.0,2.0
+qalay-i-zal district,1.0,2.0
+qarabagh district,1.0,2.0
+qargha,1.0,2.0
+qasem pul,1.0,2.0
+qaya,1.0,2.0
+qolla,1.0,2.0
+farkhar district,1.0,2.0
+fatoma,1.0,2.0
+utu etim ekpo,1.0,2.0
+verkhniotoretske,1.0,2.0
+albu fayyad,1.0,2.0
+albu shihab,1.0,2.0
+hamrin,1.0,2.0
+fuxin,1.0,2.0
+gaday qala,1.0,2.0
+gaddagi,1.0,2.0
+sabz sang,1.0,2.0
+gangajoara,1.0,2.0
+garagou,1.0,2.0
+ali khel,1.0,2.0
+al-turbah,1.0,2.0
+mahmud raqi district,1.0,2.0
+maikai,1.0,2.0
+monywa,1.0,2.0
+mambasa,1.0,2.0
+mand,1.0,2.0
+mandera,1.0,2.0
+mohmand district,1.0,2.0
+mokha,1.0,2.0
+molla barho,1.0,2.0
+wazirabad,1.0,2.0
+al-jazrah,1.0,2.0
+al-sahwa,1.0,2.0
+al-shajarah,1.0,2.0
+wazhgona,1.0,2.0
+wazhgonah,1.0,2.0
+malitbog,1.0,2.0
+malumfashi,1.0,2.0
+alander,1.0,2.0
+wadi al-atheeb,1.0,2.0
+galbana,1.0,2.0
+guibahoy,1.0,2.0
+rabat abdullah,1.0,2.0
+al-dawalib,1.0,2.0
+al-fasidah,1.0,2.0
+manila,1.0,2.0
+manini,1.0,2.0
+manqah,1.0,2.0
+mansi,1.0,2.0
+manzarkhel,1.0,2.0
+mapagong,1.0,2.0
+mishraq,1.0,2.0
+miyan joy,1.0,2.0
+al-humur,1.0,2.0
+yalow-farhan,1.0,2.0
+mamasi,1.0,2.0
+ajebamidele,1.0,2.0
+akilibu,1.0,2.0
+yonesigyi,1.0,2.0
+yangon-s district,1.0,2.0
+yankajah,1.0,2.0
+yathrib,1.0,2.0
+saan,1.0,2.0
+quldary,1.0,2.0
+qurghan district,1.0,2.0
+gurbulak,1.0,2.0
+hafash,1.0,2.0
+guarumo,1.0,2.0
+gubio district,1.0,2.0
+garkhel,1.0,2.0
+gaythapara,1.0,2.0
+galadimawa,1.0,2.0
+metha khel,1.0,2.0
+abaomege,1.0,2.0
+zibingan,1.0,2.0
+abbasiya,1.0,2.0
+abdul hamid,1.0,2.0
+aab bazak,1.0,2.0
+mawlamyine district,1.0,2.0
+zibane-koira tegui,1.0,2.0
+mazari sharif district,1.0,2.0
+mbaatan,1.0,2.0
+addousiyeh,1.0,2.0
+adeaga,1.0,2.0
+masoom kallay,1.0,2.0
+matsulu,1.0,2.0
+minapasuk,1.0,2.0
+minna,1.0,2.0
+adraskan,1.0,2.0
+af-urur,1.0,2.0
+abou rasin,1.0,2.0
+abu kershola,1.0,2.0
+abu khanazir,1.0,2.0
+abud,1.0,2.0
+ywar gyi mrauk,1.0,2.0
+zahidabad,1.0,2.0
+ahor,1.0,2.0
+gorgunda,1.0,2.0
+gori,1.0,2.0
+goundam,1.0,2.0
+grimari,1.0,2.0
+ras karkar,1.0,2.0
+abko,1.0,2.0
+zongo,1.0,2.0
+zayol,0.0,1.0
+aba,0.0,1.0
+aba north district,0.0,1.0
+abagana,0.0,1.0
+abbas khan khoso,0.0,1.0
+abd ways,0.0,1.0
+abeyeh,0.0,1.0
+abha,0.0,1.0
+zikim,0.0,1.0
+zimrat,0.0,1.0
+zinvie,0.0,1.0
+ahiazu-mbaise district,0.0,1.0
+ahangaran,0.0,1.0
+aguleri,0.0,1.0
+aglar,0.0,1.0
+zalaya,0.0,1.0
+zahr,0.0,1.0
+zabarmari,0.0,1.0
+yusufiyah,0.0,1.0
+yuksekova district,0.0,1.0
+yogi chowk,0.0,1.0
+yehud,0.0,1.0
+akwa,0.0,1.0
+akaleku,0.0,1.0
+ajdabiya,0.0,1.0
+ahume,0.0,1.0
+al-bubaker,0.0,1.0
+marignane,0.0,1.0
+margat,0.0,1.0
+mardan,0.0,1.0
+mapawa,0.0,1.0
+mirsad,0.0,1.0
+miranda,0.0,1.0
+minpa,0.0,1.0
+micmac,0.0,1.0
+matari,0.0,1.0
+mastumah,0.0,1.0
+masafer yatta,0.0,1.0
+maryville,0.0,1.0
+maryamin,0.0,1.0
+marseille,0.0,1.0
+mbanga,0.0,1.0
+maymana district,0.0,1.0
+manbar,0.0,1.0
+man sam,0.0,1.0
+mamond tangi,0.0,1.0
+moetar,0.0,1.0
+modipara,0.0,1.0
+mlaiha el-garbiah,0.0,1.0
+mizan district,0.0,1.0
+miya nishin district,0.0,1.0
+miya khel,0.0,1.0
+mirzakhil,0.0,1.0
+mankon,0.0,1.0
+manjakote,0.0,1.0
+manguna,0.0,1.0
+mangina,0.0,1.0
+mangeleza,0.0,1.0
+mariupol,0.0,1.0
+malkangiri district,0.0,1.0
+male,0.0,1.0
+makumo,0.0,1.0
+makhmur district,0.0,1.0
+montemorelos,0.0,1.0
+monrovia,0.0,1.0
+mongyai,0.0,1.0
+monguno district,0.0,1.0
+mondomo,0.0,1.0
+momauk,0.0,1.0
+mogoke,0.0,1.0
+mangajek district,0.0,1.0
+mang li,0.0,1.0
+mandimba,0.0,1.0
+mandar,0.0,1.0
+mandahican,0.0,1.0
+macalamcam b,0.0,1.0
+maas,0.0,1.0
+lushebere,0.0,1.0
+lurgan,0.0,1.0
+mucojo,0.0,1.0
+moulvibazar,0.0,1.0
+mosul district,0.0,1.0
+mosul,0.0,1.0
+morinville,0.0,1.0
+majorville,0.0,1.0
+majd,0.0,1.0
+mahungubwe,0.0,1.0
+mahliyah district,0.0,1.0
+mahawil district,0.0,1.0
+magway district,0.0,1.0
+malleco district,0.0,1.0
+los angeles,0.0,1.0
+longkhaw,0.0,1.0
+londonderry,0.0,1.0
+mulla killi,0.0,1.0
+mulano,0.0,1.0
+mukhaysah,0.0,1.0
+mukalla,0.0,1.0
+muhmand dara district,0.0,1.0
+muhaymidah,0.0,1.0
+mufash,0.0,1.0
+mueda,0.0,1.0
+magway,0.0,1.0
+maghery,0.0,1.0
+mafa,0.0,1.0
+madarat,0.0,1.0
+madama,0.0,1.0
+lleulleo chico,0.0,1.0
+llanos de cuiva,0.0,1.0
+limbe,0.0,1.0
+limavady,0.0,1.0
+mussa,0.0,1.0
+mushahidah,0.0,1.0
+musayyib,0.0,1.0
+musayi district,0.0,1.0
+murindo district,0.0,1.0
+munich,0.0,1.0
+mungwanga,0.0,1.0
+luq,0.0,1.0
+lumaco,0.0,1.0
+lukongo,0.0,1.0
+lubero district,0.0,1.0
+los mochis,0.0,1.0
+leipzig,0.0,1.0
+lehban,0.0,1.0
+lego,0.0,1.0
+lee's summit,0.0,1.0
+lawdar district,0.0,1.0
+lautaro,0.0,1.0
+latifiyah,0.0,1.0
+nablus,0.0,1.0
+myitkyina,0.0,1.0
+myingyan,0.0,1.0
+myawaddy,0.0,1.0
+muyuka,0.0,1.0
+loma de balsamo,0.0,1.0
+lohardaga district,0.0,1.0
+logariha,0.0,1.0
+lod,0.0,1.0
+nam dam,0.0,1.0
+nalchity,0.0,1.0
+nakulabye,0.0,1.0
+najran,0.0,1.0
+najaf,0.0,1.0
+nahal oz,0.0,1.0
+nagahan,0.0,1.0
+lashio,0.0,1.0
+las anod,0.0,1.0
+larne,0.0,1.0
+lanji,0.0,1.0
+langar,0.0,1.0
+lamuka,0.0,1.0
+lamud,0.0,1.0
+libere,0.0,1.0
+les cars,0.0,1.0
+kyarinn seikkyi,0.0,1.0
+kyaiklat,0.0,1.0
+kyabohe,0.0,1.0
+naqub,0.0,1.0
+naqil al-shim,0.0,1.0
+nanur,0.0,1.0
+nantes,0.0,1.0
+nangade,0.0,1.0
+namar,0.0,1.0
+nam salap,0.0,1.0
+laiza,0.0,1.0
+laikhong,0.0,1.0
+lahan,0.0,1.0
+laghrai,0.0,1.0
+labege,0.0,1.0
+la victoria,0.0,1.0
+kut,0.0,1.0
+kusaybah,0.0,1.0
+kurusnar,0.0,1.0
+kurmin kare,0.0,1.0
+naushahro firoz district,0.0,1.0
+nattalin,0.0,1.0
+nasiriyah district,0.0,1.0
+nasiriyah,0.0,1.0
+nasarawa burkullu,0.0,1.0
+narva-joesuu,0.0,1.0
+narmikhel bakkakhel,0.0,1.0
+la variante,0.0,1.0
+la uno,0.0,1.0
+la primavera,0.0,1.0
+la despensa,0.0,1.0
+kyaukbalu,0.0,1.0
+krasnohorivka,0.0,1.0
+kozliya,0.0,1.0
+kourmoussana,0.0,1.0
+netivot,0.0,1.0
+nesh district,0.0,1.0
+negev,0.0,1.0
+nazira,0.0,1.0
+kurmi shinkafa,0.0,1.0
+kurkpania,0.0,1.0
+kupwara district,0.0,1.0
+kunguta mavono,0.0,1.0
+kunda,0.0,1.0
+kulachi,0.0,1.0
+kwamashu,0.0,1.0
+kutum,0.0,1.0
+kutkai,0.0,1.0
+kohi safi district,0.0,1.0
+nimrud,0.0,1.0
+nimed,0.0,1.0
+newtownards,0.0,1.0
+newtownabbey,0.0,1.0
+newry,0.0,1.0
+new york,0.0,1.0
+new delhi,0.0,1.0
+kotmi,0.0,1.0
+kotedhara,0.0,1.0
+korowita,0.0,1.0
+kone tan,0.0,1.0
+kondagaon district,0.0,1.0
+kukareta,0.0,1.0
+kuemari,0.0,1.0
+kudad,0.0,1.0
+kobani,0.0,1.0
+kitwanga,0.0,1.0
+kisui,0.0,1.0
+kissufim,0.0,1.0
+novi sad,0.0,1.0
+north ormesby,0.0,1.0
+north 24 parganas district,0.0,1.0
+nnepi,0.0,1.0
+nisab district,0.0,1.0
+nir am,0.0,1.0
+nimtita,0.0,1.0
+kolondieba,0.0,1.0
+kolkata,0.0,1.0
+kokko,0.0,1.0
+kokaran,0.0,1.0
+koka,0.0,1.0
+kibarangiro,0.0,1.0
+khwaja hijran district,0.0,1.0
+nyaungshwe,0.0,1.0
+nyabigega,0.0,1.0
+nuevo san miguel,0.0,1.0
+nueva imperial,0.0,1.0
+nud,0.0,1.0
+nuapada district,0.0,1.0
+ntuzuma,0.0,1.0
+kishindih district,0.0,1.0
+kirkuk district,0.0,1.0
+kingamuviri,0.0,1.0
+kimak,0.0,1.0
+kilkeel,0.0,1.0
+kohak,0.0,1.0
+kobashi,0.0,1.0
+kharkiv,0.0,1.0
+khardaha,0.0,1.0
+kharan,0.0,1.0
+khao tum,0.0,1.0
+khaniqa district,0.0,1.0
+khanaqin,0.0,1.0
+khan sur,0.0,1.0
+obollo-afor,0.0,1.0
+nyinyiza,0.0,1.0
+khuzdar,0.0,1.0
+khorof harar,0.0,1.0
+khora,0.0,1.0
+khok nibong,0.0,1.0
+khe moon,0.0,1.0
+kilagai,0.0,1.0
+kifri,0.0,1.0
+okwudor,0.0,1.0
+oku,0.0,1.0
+oke onigbin,0.0,1.0
+oke odan,0.0,1.0
+ohe tan,0.0,1.0
+ohafia district,0.0,1.0
+ogwashi-uku,0.0,1.0
+oguta district,0.0,1.0
+khamis mushayt,0.0,1.0
+khalis,0.0,1.0
+khalil al-hasnawi,0.0,1.0
+khaki jabar district,0.0,1.0
+khairpur,0.0,1.0
+khadamari,0.0,1.0
+khabb wa ash shaaf district,0.0,1.0
+khas uruzgan district,0.0,1.0
+kelbo,0.0,1.0
+keady,0.0,1.0
+kayu boko,0.0,1.0
+kawkareik district,0.0,1.0
+kawkareik,0.0,1.0
+kawfil,0.0,1.0
+kauri,0.0,1.0
+kaungmutone,0.0,1.0
+katwe,0.0,1.0
+orebro,0.0,1.0
+orange park,0.0,1.0
+ondo,0.0,1.0
+olubo,0.0,1.0
+olimpia,0.0,1.0
+oldstead,0.0,1.0
+oldbridge,0.0,1.0
+kalkin,0.0,1.0
+otamba,0.0,1.0
+kaninkamaw,0.0,1.0
+kani spika,0.0,1.0
+kani masi,0.0,1.0
+kangyidaung,0.0,1.0
+kanbya,0.0,1.0
+kanbalu,0.0,1.0
+kasinga,0.0,1.0
+kari,0.0,1.0
+karhat rafiyah,0.0,1.0
+karez suf,0.0,1.0
+karelaghati,0.0,1.0
+kerem shalom,0.0,1.0
+kenihama,0.0,1.0
+kendua macchli patti,0.0,1.0
+kalay,0.0,1.0
+kalakan,0.0,1.0
+kakuka,0.0,1.0
+kakoro,0.0,1.0
+kaiso,0.0,1.0
+kaiphundai,0.0,1.0
+pailitas district,0.0,1.0
+pagamba,0.0,1.0
+paez district,0.0,1.0
+paez,0.0,1.0
+oz zion,0.0,1.0
+kanamma,0.0,1.0
+kanama,0.0,1.0
+kamonokaha,0.0,1.0
+kalonge,0.0,1.0
+kalma,0.0,1.0
+kafra safra,0.0,1.0
+kachurtol,0.0,1.0
+kachia district,0.0,1.0
+kachdara,0.0,1.0
+kabalantian,0.0,1.0
+ka pho district,0.0,1.0
+jussak,0.0,1.0
+pan lon,0.0,1.0
+pampore,0.0,1.0
+pampo,0.0,1.0
+palma district,0.0,1.0
+paletwa,0.0,1.0
+palestina,0.0,1.0
+pale,0.0,1.0
+paispamba,0.0,1.0
+kalembe,0.0,1.0
+jhelum,0.0,1.0
+jeddah,0.0,1.0
+jazan,0.0,1.0
+panningen,0.0,1.0
+pankha,0.0,1.0
+panjwai,0.0,1.0
+pangsha,0.0,1.0
+pang lon,0.0,1.0
+panduru,0.0,1.0
+jusiga,0.0,1.0
+jurisdicciones,0.0,1.0
+jurf naddaf,0.0,1.0
+jubail,0.0,1.0
+jubah district,0.0,1.0
+kahongole,0.0,1.0
+kafrayah,0.0,1.0
+jammu,0.0,1.0
+jambalo,0.0,1.0
+jalam al-bu ajil,0.0,1.0
+jalalaqsi,0.0,1.0
+jagargunda,0.0,1.0
+patashpur,0.0,1.0
+patacua,0.0,1.0
+pashchim singhbhum district,0.0,1.0
+parangabad,0.0,1.0
+panzgam,0.0,1.0
+panuran,0.0,1.0
+jasmi,0.0,1.0
+jangal bagh,0.0,1.0
+janale,0.0,1.0
+jamrud ghundi,0.0,1.0
+johannesburg,0.0,1.0
+isinweke,0.0,1.0
+ishaqabad,0.0,1.0
+irogpa,0.0,1.0
+iraye,0.0,1.0
+petah tivka,0.0,1.0
+permili,0.0,1.0
+penticton,0.0,1.0
+payathonzu,0.0,1.0
+pathein,0.0,1.0
+jadihat,0.0,1.0
+jacobabad,0.0,1.0
+jabaliyah,0.0,1.0
+jabaliya,0.0,1.0
+izbah,0.0,1.0
+iwofin,0.0,1.0
+jamorawon,0.0,1.0
+inkaneep,0.0,1.0
+imphal west district,0.0,1.0
+imphal,0.0,1.0
+imamsahib,0.0,1.0
+imam weis,0.0,1.0
+pishin,0.0,1.0
+pir-bigha,0.0,1.0
+pinyin,0.0,1.0
+pili,0.0,1.0
+pidima,0.0,1.0
+pichi pellahuen,0.0,1.0
+phek,0.0,1.0
+phado,0.0,1.0
+pewaukee,0.0,1.0
+isu district,0.0,1.0
+istanbul,0.0,1.0
+ikot odon,0.0,1.0
+ikire,0.0,1.0
+ikata,0.0,1.0
+ijebu north district,0.0,1.0
+pughanan,0.0,1.0
+puerto peleco,0.0,1.0
+puente amarillo,0.0,1.0
+poughkeepsie,0.0,1.0
+portland,0.0,1.0
+portadown,0.0,1.0
+port harcourt,0.0,1.0
+popalzo zoshakh,0.0,1.0
+polota b,0.0,1.0
+pol-e malan,0.0,1.0
+pivnichne,0.0,1.0
+iorja,0.0,1.0
+hsipaw,0.0,1.0
+pyapon,0.0,1.0
+putiao,0.0,1.0
+pusnar,0.0,1.0
+pulwama district,0.0,1.0
+ihube,0.0,1.0
+ihitte district,0.0,1.0
+igbomotoru,0.0,1.0
+iganga,0.0,1.0
+ifitedunu,0.0,1.0
+idlib,0.0,1.0
+ibusogboro,0.0,1.0
+iluke,0.0,1.0
+ilha macaloe,0.0,1.0
+ikyayior,0.0,1.0
+ikot ukpong,0.0,1.0
+qala-i-naw district,0.0,1.0
+qala-e-abdul ali,0.0,1.0
+qala qazi,0.0,1.0
+qaim district,0.0,1.0
+qaim,0.0,1.0
+pyinmana,0.0,1.0
+hourara,0.0,1.0
+homapon,0.0,1.0
+hinthada district,0.0,1.0
+hillah,0.0,1.0
+ibeagwa aka,0.0,1.0
+ibb,0.0,1.0
+hulaywah,0.0,1.0
+huilio,0.0,1.0
+hub,0.0,1.0
+huape,0.0,1.0
+hairatan,0.0,1.0
+qom,0.0,1.0
+qarah tappah,0.0,1.0
+qarabagh bazar,0.0,1.0
+qamishli,0.0,1.0
+havre de grace,0.0,1.0
+haungpa,0.0,1.0
+hato frio,0.0,1.0
+haswah,0.0,1.0
+hassanpora,0.0,1.0
+hassan shallal,0.0,1.0
+hasankoy,0.0,1.0
+hedley,0.0,1.0
+hazm,0.0,1.0
+hazaribagh,0.0,1.0
+hayatabad,0.0,1.0
+habilayn,0.0,1.0
+habban,0.0,1.0
+haanta dheer,0.0,1.0
+guol,0.0,1.0
+gumma,0.0,1.0
+quiterajo,0.0,1.0
+quilaco,0.0,1.0
+quidico,0.0,1.0
+quepe,0.0,1.0
+harardhere,0.0,1.0
+harad district,0.0,1.0
+hanover,0.0,1.0
+hamure,0.0,1.0
+hamandaliyah,0.0,1.0
+haman,0.0,1.0
+hajin,0.0,1.0
+goros numero dos,0.0,1.0
+gonder,0.0,1.0
+rakasnala,0.0,1.0
+rajpora,0.0,1.0
+rahara,0.0,1.0
+rahabah district,0.0,1.0
+radda,0.0,1.0
+radal,0.0,1.0
+gumla,0.0,1.0
+guetela,0.0,1.0
+guerguerat,0.0,1.0
+guatemala,0.0,1.0
+guamalito,0.0,1.0
+gruenheide,0.0,1.0
+hadithah,0.0,1.0
+had akhdar,0.0,1.0
+gindan rai,0.0,1.0
+gilai,0.0,1.0
+gigors-et-lozeron,0.0,1.0
+gidan rai,0.0,1.0
+ghundai,0.0,1.0
+rengpang,0.0,1.0
+rengarbera,0.0,1.0
+refai district,0.0,1.0
+refai,0.0,1.0
+rasheed,0.0,1.0
+ras tanura,0.0,1.0
+raqqah,0.0,1.0
+ramchapally,0.0,1.0
+green village,0.0,1.0
+gouda,0.0,1.0
+gortreagh,0.0,1.0
+gaya district,0.0,1.0
+gatta,0.0,1.0
+garin kuturu,0.0,1.0
+rome,0.0,1.0
+roma,0.0,1.0
+roba,0.0,1.0
+rifai,0.0,1.0
+ghotia mor,0.0,1.0
+ghorak district,0.0,1.0
+ghareeb,0.0,1.0
+ghaghari,0.0,1.0
+gelan district,0.0,1.0
+glengormley,0.0,1.0
+glenavy,0.0,1.0
+givat shmuel,0.0,1.0
+giridih district,0.0,1.0
+florida,0.0,1.0
+rurambo,0.0,1.0
+rumlang,0.0,1.0
+rumbek,0.0,1.0
+rumailat,0.0,1.0
+rueso district,0.0,1.0
+rueso,0.0,1.0
+garhwa district,0.0,1.0
+gap,0.0,1.0
+gangaw,0.0,1.0
+gamawa,0.0,1.0
+galvarino,0.0,1.0
+geidam district,0.0,1.0
+gboko district,0.0,1.0
+gbabu,0.0,1.0
+gayaza,0.0,1.0
+fallujah district,0.0,1.0
+falaise,0.0,1.0
+sahiliyah,0.0,1.0
+sahapur,0.0,1.0
+saghev,0.0,1.0
+sagaing,0.0,1.0
+safra,0.0,1.0
+sadiyah,0.0,1.0
+sadirah,0.0,1.0
+sadeh avraham,0.0,1.0
+sabiid,0.0,1.0
+sabere mbaba,0.0,1.0
+gagran,0.0,1.0
+fushe kosove,0.0,1.0
+fortul,0.0,1.0
+fonbeauzard,0.0,1.0
+eshkol regional council,0.0,1.0
+esha,0.0,1.0
+eruwa,0.0,1.0
+erez,0.0,1.0
+ercilla,0.0,1.0
+enugu,0.0,1.0
+salif,0.0,1.0
+salh district,0.0,1.0
+salesoon,0.0,1.0
+sajo,0.0,1.0
+saint johns,0.0,1.0
+saimu,0.0,1.0
+saimooh,0.0,1.0
+felipe angeles,0.0,1.0
+fatehabad,0.0,1.0
+farabougou,0.0,1.0
+el vergel,0.0,1.0
+el tejero,0.0,1.0
+el monte,0.0,1.0
+el geneina,0.0,1.0
+san josef,0.0,1.0
+san javier,0.0,1.0
+san chao kai to,0.0,1.0
+saminar,0.0,1.0
+samawah,0.0,1.0
+samarra district,0.0,1.0
+salonica,0.0,1.0
+salman,0.0,1.0
+faizabad,0.0,1.0
+fai kyawng,0.0,1.0
+ezza north district,0.0,1.0
+essien udim district,0.0,1.0
+sao paulo,0.0,1.0
+santo nino,0.0,1.0
+sanmatenga district,0.0,1.0
+sangam,0.0,1.0
+el empalme,0.0,1.0
+eke-onuimo,0.0,1.0
+eisenach,0.0,1.0
+ehime-mbano district,0.0,1.0
+egiri,0.0,1.0
+ebonyi district,0.0,1.0
+enschede,0.0,1.0
+enniskillen,0.0,1.0
+emuoha district,0.0,1.0
+emuhu,0.0,1.0
+elnaymah,0.0,1.0
+el wak,0.0,1.0
+sarkin noma,0.0,1.0
+sarkar-e-baghl,0.0,1.0
+sardheri,0.0,1.0
+saravena district,0.0,1.0
+saravena,0.0,1.0
+saqlawiyah,0.0,1.0
+dushi district,0.0,1.0
+durban,0.0,1.0
+dungiven,0.0,1.0
+dumdail,0.0,1.0
+dumaria,0.0,1.0
+duma,0.0,1.0
+dulliken,0.0,1.0
+dujail,0.0,1.0
+duhaidha,0.0,1.0
+dthina,0.0,1.0
+dooga,0.0,1.0
+donneville,0.0,1.0
+don pablo dela rosa,0.0,1.0
+don mariano marcos,0.0,1.0
+domail,0.0,1.0
+dokhla,0.0,1.0
+doka atikpo,0.0,1.0
+dogofry,0.0,1.0
+sayyid hamad,0.0,1.0
+sayghan district,0.0,1.0
+sayed jarad,0.0,1.0
+sayed jaber,0.0,1.0
+sawan,0.0,1.0
+sassenage,0.0,1.0
+saslaj,0.0,1.0
+sarman,0.0,1.0
+shaburhan,0.0,1.0
+shaar hanegev regional council,0.0,1.0
+seyngth,0.0,1.0
+selzin,0.0,1.0
+sekanyonyi,0.0,1.0
+seiyun,0.0,1.0
+seh ab,0.0,1.0
+segbiuga,0.0,1.0
+sedal,0.0,1.0
+diyarbakir,0.0,1.0
+diwaniyah district,0.0,1.0
+diouradougou kafo,0.0,1.0
+dilsen-stokkem,0.0,1.0
+doukouria,0.0,1.0
+doruma,0.0,1.0
+dooshima,0.0,1.0
+daungchaung,0.0,1.0
+datu paglas,0.0,1.0
+datem del maranon district,0.0,1.0
+shakhri kokhna,0.0,1.0
+shahid nizar,0.0,1.0
+shah wali kot district,0.0,1.0
+dhaka,0.0,1.0
+dhahran al-janub district,0.0,1.0
+dhahran,0.0,1.0
+dera ismail khan district,0.0,1.0
+delmenhorst,0.0,1.0
+deir nizham,0.0,1.0
+digobi,0.0,1.0
+digilota,0.0,1.0
+dhira dijla,0.0,1.0
+dhanora,0.0,1.0
+shaykhi,0.0,1.0
+shatrah district,0.0,1.0
+sharana,0.0,1.0
+shamiya district,0.0,1.0
+dara muqbal,0.0,1.0
+daoud allouk,0.0,1.0
+daoud al-salem,0.0,1.0
+dantewada district,0.0,1.0
+dangerpora,0.0,1.0
+darkale,0.0,1.0
+darbhanga,0.0,1.0
+dedpath,0.0,1.0
+dayr sharaf,0.0,1.0
+dawr district,0.0,1.0
+dawphoneyan,0.0,1.0
+dawlat shah,0.0,1.0
+coi coi,0.0,1.0
+cluny,0.0,1.0
+ciudad del carmen,0.0,1.0
+sherbandi,0.0,1.0
+sherawa,0.0,1.0
+sherabad khore,0.0,1.0
+shene,0.0,1.0
+sheladiz,0.0,1.0
+sheikh saad,0.0,1.0
+sheikh barrow,0.0,1.0
+shazif,0.0,1.0
+daman,0.0,1.0
+dagonbhuiya,0.0,1.0
+dabeiba district,0.0,1.0
+currynierin,0.0,1.0
+cunco,0.0,1.0
+chitramo,0.0,1.0
+chief mununga,0.0,1.0
+chia,0.0,1.0
+shorwardak,0.0,1.0
+shoqra,0.0,1.0
+shishan,0.0,1.0
+cumana,0.0,1.0
+cuesta del ternero,0.0,1.0
+cucuta,0.0,1.0
+cuatro esquinas,0.0,1.0
+crucecitas,0.0,1.0
+crest,0.0,1.0
+cox's bazar,0.0,1.0
+cotmon,0.0,1.0
+consing,0.0,1.0
+collin,0.0,1.0
+chelmsford,0.0,1.0
+chavez talamantes,0.0,1.0
+chattar,0.0,1.0
+chatra district,0.0,1.0
+charsada district,0.0,1.0
+singhu,0.0,1.0
+siddhirganj,0.0,1.0
+sibutu district,0.0,1.0
+sibsagar district,0.0,1.0
+sibi,0.0,1.0
+siah sang,0.0,1.0
+si sakhon,0.0,1.0
+shubaykah,0.0,1.0
+chungi,0.0,1.0
+chopaka,0.0,1.0
+chonke,0.0,1.0
+cabanglasan district,0.0,1.0
+siyozai,0.0,1.0
+sison,0.0,1.0
+chai,0.0,1.0
+chahar dara,0.0,1.0
+chaghan,0.0,1.0
+cehil dukhtaran,0.0,1.0
+cautin district,0.0,1.0
+cartagena,0.0,1.0
+carrollton,0.0,1.0
+chandkote hygam,0.0,1.0
+chalabi,0.0,1.0
+chal district,0.0,1.0
+chaki wardak district,0.0,1.0
+chetimari,0.0,1.0
+cherla,0.0,1.0
+sulaymaniyah,0.0,1.0
+sukma district,0.0,1.0
+stockholm,0.0,1.0
+st. albert,0.0,1.0
+spin-e-ghar,0.0,1.0
+spin boldak district,0.0,1.0
+burqa,0.0,1.0
+burin,0.0,1.0
+burashum,0.0,1.0
+bundada weyn,0.0,1.0
+capitan pastene,0.0,1.0
+canning,0.0,1.0
+canete,0.0,1.0
+campo dos,0.0,1.0
+camlough,0.0,1.0
+caloto district,0.0,1.0
+bujimirum,0.0,1.0
+buea,0.0,1.0
+budol,0.0,1.0
+budija,0.0,1.0
+budi,0.0,1.0
+buddo,0.0,1.0
+brightlingsea,0.0,1.0
+brezins,0.0,1.0
+tacna,0.0,1.0
+tabat,0.0,1.0
+swaida,0.0,1.0
+swabhiman anchal,0.0,1.0
+surbura,0.0,1.0
+suq ash shuyukh district,0.0,1.0
+sumisip district,0.0,1.0
+sumer,0.0,1.0
+tal dhiab,0.0,1.0
+taibe,0.0,1.0
+tagudin district,0.0,1.0
+bolo,0.0,1.0
+bole,0.0,1.0
+bohri esani,0.0,1.0
+bogalay,0.0,1.0
+bismayah,0.0,1.0
+birmah,0.0,1.0
+binocaran,0.0,1.0
+brescia,0.0,1.0
+braunschweig,0.0,1.0
+bovenkarspel,0.0,1.0
+boutonou,0.0,1.0
+bouar,0.0,1.0
+bulabulin,0.0,1.0
+belen kue,0.0,1.0
+beldiabe,0.0,1.0
+beit nekofa,0.0,1.0
+beit iksa,0.0,1.0
+beersheba,0.0,1.0
+tamim,0.0,1.0
+tam,0.0,1.0
+tall tamr,0.0,1.0
+tal salman,0.0,1.0
+tal rabaa,0.0,1.0
+bilal abad,0.0,1.0
+bijapur district,0.0,1.0
+bhiwandi,0.0,1.0
+bhamo,0.0,1.0
+betar illit,0.0,1.0
+berlin,0.0,1.0
+bawli,0.0,1.0
+bauren zakat,0.0,1.0
+battishah,0.0,1.0
+battar,0.0,1.0
+batha,0.0,1.0
+bastar district,0.0,1.0
+tar,0.0,1.0
+tapuah,0.0,1.0
+tao,0.0,1.0
+tanyong mat,0.0,1.0
+tanghdar,0.0,1.0
+tamporong,0.0,1.0
+beri,0.0,1.0
+benina,0.0,1.0
+benghazi,0.0,1.0
+bende district,0.0,1.0
+baraka,0.0,1.0
+barah,0.0,1.0
+baqim district,0.0,1.0
+baqa al-gharbiyye,0.0,1.0
+bannang sata,0.0,1.0
+tayasir,0.0,1.0
+targhao,0.0,1.0
+targema,0.0,1.0
+tar lone,0.0,1.0
+basselhaya,0.0,1.0
+basra,0.0,1.0
+basing,0.0,1.0
+barsoor,0.0,1.0
+barpora,0.0,1.0
+bayt al marui,0.0,1.0
+bay hasan,0.0,1.0
+bambahowla,0.0,1.0
+bamba,0.0,1.0
+bamaw,0.0,1.0
+bamako,0.0,1.0
+bamajo,0.0,1.0
+bam pasht,0.0,1.0
+terre haute,0.0,1.0
+tema,0.0,1.0
+tel al-laban,0.0,1.0
+tchologo district,0.0,1.0
+bani rajab,0.0,1.0
+bani bakari,0.0,1.0
+banguil,0.0,1.0
+bangkok,0.0,1.0
+bangi district,0.0,1.0
+barakarou,0.0,1.0
+tibu district,0.0,1.0
+tibu,0.0,1.0
+thessaloniki,0.0,1.0
+theinzayat,0.0,1.0
+thegone,0.0,1.0
+thayet,0.0,1.0
+thabeikkyin district,0.0,1.0
+balkan,0.0,1.0
+balhaf,0.0,1.0
+balamba,0.0,1.0
+balad district,0.0,1.0
+bakouma district,0.0,1.0
+bakar katta,0.0,1.0
+banah qasr,0.0,1.0
+ban thalo,0.0,1.0
+bamenda,0.0,1.0
+bachomobampo numero dos,0.0,1.0
+tokisud,0.0,1.0
+tirunelveli,0.0,1.0
+tire,0.0,1.0
+tirana,0.0,1.0
+tinto,0.0,1.0
+timbio,0.0,1.0
+tilburg,0.0,1.0
+tikrit district,0.0,1.0
+tikrit,0.0,1.0
+bajaur district,0.0,1.0
+baiji district,0.0,1.0
+bahuarwabhatta,0.0,1.0
+bahia blanca,0.0,1.0
+bahbahani,0.0,1.0
+baguindan,0.0,1.0
+tranaquepe,0.0,1.0
+toulouse,0.0,1.0
+toledo,0.0,1.0
+aziabad,0.0,1.0
+azaz district,0.0,1.0
+ayetoro ekiti,0.0,1.0
+auno,0.0,1.0
+baboua,0.0,1.0
+babapora,0.0,1.0
+azzun,0.0,1.0
+azran qimat,0.0,1.0
+azlat al-ashrouh,0.0,1.0
+bago,0.0,1.0
+badghisi,0.0,1.0
+badas,0.0,1.0
+badam,0.0,1.0
+arar,0.0,1.0
+tse-girgi,0.0,1.0
+tse ugbadu,0.0,1.0
+tse tugh,0.0,1.0
+tse tor,0.0,1.0
+tse agbe,0.0,1.0
+tripoli,0.0,1.0
+ashdod,0.0,1.0
+ash shamayatayn district,0.0,1.0
+asdas,0.0,1.0
+as-salif,0.0,1.0
+arma district,0.0,1.0
+aujirawa alkali,0.0,1.0
+atta,0.0,1.0
+ataq district,0.0,1.0
+at tuhayta district,0.0,1.0
+ankoma,0.0,1.0
+ankeny,0.0,1.0
+tuz khormato,0.0,1.0
+tusom,0.0,1.0
+turkawangam,0.0,1.0
+turka tachul,0.0,1.0
+tur al-bahah district,0.0,1.0
+tulul al-baj,0.0,1.0
+tulsidih,0.0,1.0
+tuen mun,0.0,1.0
+tuam,0.0,1.0
+argo district,0.0,1.0
+arghistan district,0.0,1.0
+argelia district,0.0,1.0
+arauco district,0.0,1.0
+araro,0.0,1.0
+andalucia district,0.0,1.0
+anantnag district,0.0,1.0
+anantnag,0.0,1.0
+amuda,0.0,1.0
+ughelli,0.0,1.0
+udayn district,0.0,1.0
+ubulu-ihejiofor,0.0,1.0
+ubauro,0.0,1.0
+tyo mu,0.0,1.0
+aranpur,0.0,1.0
+anzourou,0.0,1.0
+antsa,0.0,1.0
+antiquina,0.0,1.0
+antipas,0.0,1.0
+ansongo district,0.0,1.0
+anole,0.0,1.0
+amiriyat al-samoud,0.0,1.0
+amiriyat al-fallujah,0.0,1.0
+aminbazar,0.0,1.0
+amaebu ebenatu,0.0,1.0
+amabulou,0.0,1.0
+allang,0.0,1.0
+allahbad,0.0,1.0
+upington,0.0,1.0
+umurayi,0.0,1.0
+umuoji,0.0,1.0
+umuelemai,0.0,1.0
+umlazi,0.0,1.0
+ulm,0.0,1.0
+ankara,0.0,1.0
+angwan yari,0.0,1.0
+androla,0.0,1.0
+albu asi,0.0,1.0
+albertville,0.0,1.0
+alatona,0.0,1.0
+alapako,0.0,1.0
+villianur,0.0,1.0
+villa el parque,0.0,1.0
+vijagual,0.0,1.0
+video,0.0,1.0
+victoria,0.0,1.0
+vetlanda,0.0,1.0
+vereeniging,0.0,1.0
+vereda las bancas,0.0,1.0
+venkatapuram,0.0,1.0
+varberg,0.0,1.0
+valladolid,0.0,1.0
+amouriya,0.0,1.0
+al-oud,0.0,1.0
+wako kaso,0.0,1.0
+wajihiyah,0.0,1.0
+waggan,0.0,1.0
+wadi nabaa,0.0,1.0
+wadi al-jisr,0.0,1.0
+vosges,0.0,1.0
+alam,0.0,1.0
+al-zubair,0.0,1.0
+al-ushal,0.0,1.0
+al-tayyub,0.0,1.0
+al-tar,0.0,1.0
+al-tabaat,0.0,1.0
+al-sour,0.0,1.0
+al-sila,0.0,1.0
+alishing district,0.0,1.0
+al-lahib,0.0,1.0
+al-kufa district,0.0,1.0
+al-kark,0.0,1.0
+al-jubb,0.0,1.0
+al-jazeera,0.0,1.0
+west singhbhum district,0.0,1.0
+wazeedu,0.0,1.0
+wat urai rattanaram,0.0,1.0
+warmando,0.0,1.0
+al-sahar,0.0,1.0
+al-sabaa al-sufla,0.0,1.0
+al-sabaa al-olaya,0.0,1.0
+al-sabaa al-ali,0.0,1.0
+al-rakhim,0.0,1.0
+al-qadaba,0.0,1.0
+al-oura,0.0,1.0
+al-jaddfer,0.0,1.0
+al-jadafir,0.0,1.0
+al-jabaliya,0.0,1.0
+al-haml,0.0,1.0
+al-gharraf,0.0,1.0
+al-gharib,0.0,1.0
+al-fazah,0.0,1.0
+al-faw district,0.0,1.0
+yabad,0.0,1.0
+ya thit kone,0.0,1.0
+xitaxi,0.0,1.0
+womdeo,0.0,1.0
+al-maqana,0.0,1.0
+al-manjam,0.0,1.0
+al-malikiyah,0.0,1.0
+al-majaza,0.0,1.0
+al-bazul,0.0,1.0
+al-balaq,0.0,1.0
+al-baghdadi,0.0,1.0
+al-awadia,0.0,1.0
+al-asfali,0.0,1.0
+al-alam,0.0,1.0
+al-ajel,0.0,1.0
+al-abbarah,0.0,1.0
+al-abayji,0.0,1.0
+yavne,0.0,1.0
+yapimakot,0.0,1.0
+yanbu,0.0,1.0
+al-jawf junction,0.0,1.0
+al-jaruba,0.0,1.0
+al-jamamlah,0.0,1.0
+al-jamalonat,0.0,1.0
+zira i,0.0,1.0
+zawiya,0.0,1.0
+acre,0.0,1.0
+abu skhul,0.0,1.0
+abu sayda,0.0,1.0
+abu ghraib district,0.0,1.0
+abu ghraib,0.0,1.0
+abu gharaq,0.0,1.0
+abu bakr,0.0,1.0
+afgoye,0.0,1.0
+afaha ikot ebak,0.0,1.0
+adhaim,0.0,1.0
+adelaide,0.0,1.0
+ahome,0.0,1.0
+ahmed khel babri ada,0.0,1.0
+ahmad hilal,0.0,1.0
+mevasseret zion,0.0,1.0
+metina,0.0,1.0
+mes aynak,0.0,1.0
+mero,0.0,1.0
+merkhah as sufla district,0.0,1.0
+merauke,0.0,1.0
+mendi district,0.0,1.0
+menaka,0.0,1.0
+meiktila,0.0,1.0
+mecca,0.0,1.0
+mbieri,0.0,1.0
+zoukombo,0.0,1.0
+zouarke,0.0,1.0
+zona libre,0.0,1.0
+zon,0.0,1.0
+zira ii,0.0,1.0
